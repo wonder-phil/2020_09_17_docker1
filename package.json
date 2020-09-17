@@ -1,0 +1,22 @@
+{
+  "name": "2020_09_17",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonder-phil/2020_09_17_docker1.git"
+  },
+  "author": "pgb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wonder-phil/2020_09_17_docker1/issues"
+  },
+  "homepage": "https://github.com/wonder-phil/2020_09_17_docker1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
